@@ -2,6 +2,7 @@ package algorithm.jeon.codility;
 
 import java.util.Arrays;
 
+//commit test
 public class PermCheck {
 
     public static void main(String args[]) {
