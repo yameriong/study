@@ -15,5 +15,4 @@ public class 가장큰_수 {
     }
     return list.stream().collect(Collectors.joining(""));
   }
-
 }
